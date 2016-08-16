@@ -12,7 +12,7 @@ This example demonstrates the usage of the back-end operations for Wirecard Chec
 
 Copy the example code to a web server which supports PHP. Ensure that the web server is accessible from the Internet via port 80 (for http communication) or port 443 (for https communication). The web server needs a fully qualified domain name for receiving data from Wirecard e.g. payment confirmations.
 
-Our [Online Guides](https://guides.wirecard.at/ "Online Guides") provide an in depth description of [Wirecard Checkout Seamless](https://guides.wirecard.at/wcs:start "Wirecard Checkout Seamless").
+Our [Online Guides](https://guides.wirecard.at/ "Online Guides") provide an in depth description of the [back-end operations](https://guides.wirecard.at/back-end_operations:start "back-end operations") for Wirecard Checkout Seamless.
 
 
 ## Security recommendation
