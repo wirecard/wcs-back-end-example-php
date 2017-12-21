@@ -26,7 +26,7 @@
     for ($i=0; $i<func_num_args(); $i++) {
       $seed .= func_get_arg($i);
     }
-    return hash("sha512", $seed);
+    return hash_hmac("sha512", $seed, func_get_arg(3));
   }
 
 	//--------------------------------------------------------------------------------//
